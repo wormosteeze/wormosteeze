@@ -17,25 +17,17 @@
 - <b>💬 Ask me about gravel bikes and fixed gear bikes... or anything cycling related!
 - <b>📫 How to reach me: <a href="https://www.linkedin.com/in/ianmcdonell/">LinkedIn</a>
 
-<!-- <h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
--->
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn][linkedin]
-<br>[Artstation][artstation]
+- [LinkedIn][linkedin]
+- [Artstation][artstation]
 
 [artstation]: https://www.artstation.com/ianm
 [linkedin]: https://linkedin.com/in/ianmcdonell
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+based on the tips given in this video by JoshMadakor: https://www.youtube.com/watch?v=zgqfWLHNKLk
+see also: https://github.com/joshmadakor1/joshmadakor1/blob/main/README.md
 
 Here are some ideas to get you started:
 
