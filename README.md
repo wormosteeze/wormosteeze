@@ -6,7 +6,7 @@
   - [Post-Reimage CMD Finalization Script](https://github.com/wormosteeze/post-img)
   - [CMD Scripts to Make Your Life Easier](https://github.com/wormosteeze/cmd-scripts)
 - <b>PowerShell</b>
-  - [PowerShell Wifi Join via USB](https://github.com/wormosteeze/asdf)
+  - [PowerShell Wifi Join via USB](https://github.com/wormosteeze/powershell-scripts)
 
 <h2>🤗 About me:</h2>
 
