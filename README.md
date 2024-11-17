@@ -3,10 +3,8 @@
 <h2>👨‍💻 My Coding Projects:</h2>
 
 - <b>Windows Command Line</b>
-  - [Post-Reimage CMD Finalization Script](https://github.com/wormosteeze/asdf)
-  - [CMD Scripts to Make Your Life Easier](https://github.com/wormosteeze/asdf)
-  - [General CMD Efficiency Tools](https://github.com/wormosteeze/asdf)
-  - [Easy CMD Installer Tools](https://github.com/wormosteeze/asdf)
+  - [Post-Reimage CMD Finalization Script](https://github.com/wormosteeze/post-img)
+  - [CMD Scripts to Make Your Life Easier](https://github.com/wormosteeze/cmd-scripts)
 - <b>PowerShell</b>
   - [PowerShell Wifi Join via USB](https://github.com/wormosteeze/asdf)
 
