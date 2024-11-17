@@ -1,16 +1,13 @@
 <h1>Hi, I'm Ian! <br/><a href="https://www.linkedin.com/in/ianmcdonell/">IT Support Specialist</a>, <a href="https://github.com/wormosteeze">CMD and PowerShell scripter</a>, <a href="https://ianmcdonell.com/">Artist</a></h1>
 
-<h2>👨‍💻 CMD and PowerShell Projects:</h2>
+<h2>👨‍💻 My Coding Projects:</h2>
 
-- <b>Post-Reimage CMD Finalization Script</b>
+- <b>Windows Command Line</b>
   - [Post-Reimage CMD Finalization Script](https://github.com/wormosteeze/asdf)
-- <b>CMD Scripts to Make Your Life Easier</b>
   - [CMD Scripts to Make Your Life Easier](https://github.com/wormosteeze/asdf)
-- <b>General CMD Efficiency Tools</b>
   - [General CMD Efficiency Tools](https://github.com/wormosteeze/asdf)
-- <b>Easy CMD Installer Tools</b>
   - [Easy CMD Installer Tools](https://github.com/wormosteeze/asdf)
-- <b>PowerShell Wifi Join via USB</b>
+- <b>PowerShell</b>
   - [PowerShell Wifi Join via USB](https://github.com/wormosteeze/asdf)
 
 <h2>🤗 About me:</h2>
